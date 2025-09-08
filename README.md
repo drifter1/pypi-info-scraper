@@ -13,6 +13,8 @@ The paper is titled "_The State of Python-Based FPGA Development: A PyPI Reposit
 - [pandas](https://pypi.org/project/pandas/)
 - [openpyxl](https://pypi.org/project/openpyxl/)
 
+The script should be compatible with most operating systems.
+
 ## Handling Anti-Scraping Measures
 
 Since the Python Package Index ([PyPI](https://pypi.org/)) has anti-scraping measures in place, a user challenge is necessary the first time the browser window is opened automatically from the Python script.
@@ -39,4 +41,4 @@ The script is distributed under the MIT license.
 
 ## Publication
 
-The paper can be found on IEEE Xplore: TO BE INCLUDED
+The paper can be found on IEEE Xplore: **TO BE INCLUDED**
