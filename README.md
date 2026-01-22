@@ -2,7 +2,7 @@
 
 The repository contains the script used for the automatic data collection necessary for an academic research paper on FPGA-related packages on the Python Package Index ([PyPI](https://pypi.org/)).
 
-The paper will be published in the 10th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (**SEEDA-CECNSM 2025**).
+The paper has been published in the 10th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference ([**SEEDA-CECNSM 2025**](https://doi.org/10.1109/SEEDA-CECNSM68644.2025)).
 
 The paper is titled "_The State of Python-Based FPGA Development: A PyPI Repository Study_".
 
@@ -41,4 +41,6 @@ The script is distributed under the MIT license.
 
 ## Publication
 
-The paper can be found on IEEE Xplore: **TO BE INCLUDED**
+The paper can be found on **IEEE Xplore**: [https://ieeexplore.ieee.org/document/11330044](https://ieeexplore.ieee.org/document/11330044)
+
+**DOI**: [10.1109/SEEDA-CECNSM68644.2025.11330044](https://doi.org/10.1109/SEEDA-CECNSM68644.2025.11330044)
